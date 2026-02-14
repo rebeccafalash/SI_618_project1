@@ -13,7 +13,7 @@ The project consists of 4 components:
 * Select data (2+ sources)
 * generate 3 questions about the data
 * Manipulate the data to help answer the questions: 
-    * Merge, clean, -- unsure tidy data.
+    * Merge, clean, -- ensure tidy data.
 * Create some new rows, filter some rows, show basic manipulation 
 * Create some vis. based on the questions and manipulation (3+)
 
